@@ -1,4 +1,4 @@
-### Hi there! I am Himanshu 👋
+### Hi there! I am Himanshu Deval
 
 I am looking for an entry-level position as a Frontend Developer, where I can use my skills in HTML, CSS, JavaScript, and React to build user-friendly and visually appealing web applications. I am excited about the opportunity to learn and grow in the field of web development.
 <!--
